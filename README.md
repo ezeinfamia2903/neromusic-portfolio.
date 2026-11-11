@@ -129,8 +129,9 @@ Producto concebido y dirigido por **[TU NOMBRE]**, desarrollado con asistencia d
 
 ## Contacto
 
-- GitHub: **[TU USUARIO]**
-- LinkedIn: **[TU PERFIL]**
-- Email: **[TU EMAIL]**
+- GitHub: ezeinfamia2903
+- LinkedIn: www.linkedin.com/in/ezequiel-nuñez-aa8022227
+- Email: avefenix442@gmail.com
+- 
 
-> Completar antes de publicar. No se incluyen datos de contacto inventados.
+
