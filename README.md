@@ -123,7 +123,7 @@ El objetivo es demostrar criterio de producto, dirección técnica, experiencia 
 
 Producto concebido y dirigido por Ezequiel Núñez, desarrollado con asistencia de IA bajo mi dirección, validado mediante pruebas funcionales y desplegado en producción sobre Linux.
 
-> Completar con el nombre y los enlaces profesionales antes de publicar.
+
 
 ---
 
